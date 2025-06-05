@@ -1,0 +1,19 @@
+[project]
+name = "dropads-new"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "edge-tts>=7.0.2",
+    "elevenlabs>=1.59.0",
+    "ffmpeg-python>=0.2.0",
+    "moviepy==1.0.3",
+    "open-clip-torch>=2.32.0",
+    "openai>=1.78.1",
+    "opencv-python>=4.11.0.86",
+    "pydub>=0.25.1",
+    "requests>=2.32.3",
+    "scenedetect>=0.6.6",
+]
